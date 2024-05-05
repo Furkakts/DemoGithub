@@ -13,6 +13,8 @@ struct HomeView: View {
             Text("Screen 2!")
             Text("Screen 2!")
             Text("Screen 2!")
+            
+            Button("Furkan aktasss!"){}
         }
     }
 }
