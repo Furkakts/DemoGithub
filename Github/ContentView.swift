@@ -10,6 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
+            Text("UnStage")
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
                 .foregroundColor(.accentColor)
