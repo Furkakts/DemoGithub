@@ -17,6 +17,7 @@ struct ContentView: View {
             Text("Furkan Aktaş!")
             Button("Click Me!"){}
             Text("Clicked and Staged!")
+            Text("UnStage")
         }
         .padding()
     }
