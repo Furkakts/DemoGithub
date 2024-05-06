@@ -14,7 +14,7 @@ struct ContentView: View {
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
                 .foregroundColor(.accentColor)
-            Text("Furkan Aktaş!")
+            Text("Furkan!")
             Button("Click Me!"){}
             Text("Clicked and Stashed!")
             Text("UnStage")
