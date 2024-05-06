@@ -16,7 +16,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Furkan Aktaş!")
             Button("Click Me!"){}
-            Text("Clicked and Staged!")
+            Text("Clicked and Stashed!")
             Text("UnStage")
         }
         .padding()
