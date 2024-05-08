@@ -18,6 +18,8 @@ struct ContentView: View {
             Button("Click Me!"){}
             Text("Clicked and Stashed!")
             Text("UnStage")
+            Text("Subscribe Now")
+            
         }
         .padding()
     }
