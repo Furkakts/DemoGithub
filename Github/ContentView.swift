@@ -19,6 +19,7 @@ struct ContentView: View {
             Text("Clicked and Stashed!")
             Text("UnStage")
             Text("Subscribe Now")
+            Text("Subscribe 2")
             
         }
         .padding()
