@@ -10,19 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            
-            Button("Click Me!"){}
-            Text("Clicked and Stashed!")
-          
-            VStack{
-               
-                Text("Subscribe 2")
-                Text("Subscribe 3")
-                Text("Subscribe 4")
-               
-            }
-            
-            
+            Text("Subscribe 4")
         }
         .padding()
     }
