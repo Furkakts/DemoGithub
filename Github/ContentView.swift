@@ -24,6 +24,10 @@ struct ContentView: View {
                 Text("Subscribe 3")
                 Text("Subscribe 4")
                 Text("Subscribe 5")
+                Text("Subscribe 6")
+                Text("Subscribe 7")
+                Text("Subscribe 8")
+                Text("Subscribe 9")
             }
             
         }
