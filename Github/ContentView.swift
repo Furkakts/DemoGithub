@@ -18,9 +18,13 @@ struct ContentView: View {
             Button("Click Me!"){}
             Text("Clicked and Stashed!")
             Text("UnStage")
-            Text("Subscribe Now")
-            Text("Subscribe 2")
-            Text("Subscribe 3")
+            VStack{
+                Text("Subscribe Now")
+                Text("Subscribe 2")
+                Text("Subscribe 3")
+                Text("Subscribe 4")
+                Text("Subscribe 5")
+            }
             
         }
         .padding()
