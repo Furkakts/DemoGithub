@@ -13,7 +13,8 @@ struct ContentView: View {
             Text("Second Part")
             Text("Unsubscribe 1")
             Text("Unsubscribe 2")
-            VStack{
+            Text("Unsubscribe 3")
+         VStack{
                 Text("Subscribe 1")
                 Text("Subscribe 3")
                 Text("Subscribe 2")
