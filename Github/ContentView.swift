@@ -16,10 +16,12 @@ struct ContentView: View {
             Text("Subscribe 1")
             Text("Subscribe 3")
             Text("Subscribe 2")
-            Text("Subscribe 7")
-            Text("Subscribe 4")
-            Text("Subscribe 5")
-            Text("Subscribe 6")
+            VStack{
+                Text("Subscribe 7")
+                Text("Subscribe 4")
+                Text("Subscribe 5")
+                Text("Subscribe 6")
+            }
         }
         .padding()
     }
