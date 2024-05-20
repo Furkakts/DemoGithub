@@ -21,6 +21,7 @@ struct ContentView: View {
                 Text("Subscribe 3")
                 Text("Subscribe 2")
                 Text("Subscribe 22")
+                Text("Subscribe 32")
             }
             VStack{
                 Text("Subscribe 7")
